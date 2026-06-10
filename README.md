@@ -1,3 +1,5 @@
+HR Analytics Dashboard – Employee Attrition Analysis
+
 Project Overview
 
 This project analyses employee attrition patterns using the IBM HR Analytics dataset and presents business insights through an interactive Excel dashboard.
